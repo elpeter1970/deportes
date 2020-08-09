@@ -32,7 +32,9 @@ http://roedor.xyz/regiomx20x/tp.php?c=64&p=3&k=srregio&f=.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwLO0E-_4GcBcL3fJswU2hcaOP0JqsOx1BRQ&usqp=CAU" group-title="Entretenimiento",TNT Series
 http://roedor.xyz/regiomx20x/tp.php?c=71&p=3&k=srregio&f=.m3u8 
- 
+
+
+*** ENTRETENIMIENTO ***
 #EXTINF:-1, A3CINE 
 http://roedor.xyz/regiomx20x/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TBS SD  
@@ -63,9 +65,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=137&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=138&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FXM SD 
 http://roedor.xyz/regiomx20x/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX SERIES
-http://roedor.xyz/regiomx20x/tp.php?c=139&p=3&k=srregio&f=.m3u8  
- 
 #EXTINF:-1, FOX MOVIES 
 http://roedor.xyz/regiomx20x/tp.php?c=146&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, CINECANAL
@@ -102,9 +101,6 @@ http://blackaddon.com/scr/jul3.php?c=62&f.m3u8
 http://blackaddon.com/scr/jul3.php?c=63&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Family
 http://blackaddon.com/scr/jul3.php?c=64&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Life
-http://blackaddon.com/scr/jul3.php?c=65&f.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox News
 http://blackaddon.com/scr/jul3.php?c=68&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series
@@ -126,7 +122,7 @@ http://blackaddon.com/scr/jul3.php?c=89&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",HLN
 http://blackaddon.com/scr/jul3.php?c=90&f.m3u8
  
-*** ENTRETENIMIENTO ***
+
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 http://roedor.xyz/regiomx20x/tp.php?c=85&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FOX  
