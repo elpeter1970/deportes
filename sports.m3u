@@ -27,11 +27,8 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="Deportes",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
  
- 
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1471985711231-Imagen.png" group-title="Entretenimiento", AXN
 http://roedor.xyz/regiomx20x/tp.php?c=64&p=3&k=srregio&f=.m3u8  
- 
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwLO0E-_4GcBcL3fJswU2hcaOP0JqsOx1BRQ&usqp=CAU" group-title="Entretenimiento",TNT Series
 http://roedor.xyz/regiomx20x/tp.php?c=71&p=3&k=srregio&f=.m3u8 
@@ -107,8 +104,7 @@ http://blackaddon.com/scr/jul3.php?c=63&f.m3u8
 http://blackaddon.com/scr/jul3.php?c=64&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Life
 http://blackaddon.com/scr/jul3.php?c=65&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Movies
-http://blackaddon.com/scr/jul3.php?c=67&f.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox News
 http://blackaddon.com/scr/jul3.php?c=68&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series
@@ -149,7 +145,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=59&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=60&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, A&E
 http://roedor.xyz/regiomx20x/tp.php?c=62&p=3&k=srregio&f=.m3u8  
- 
 #EXTINF:-1, UNICABLE SD
 http://roedor.xyz/regiomx20x/tp.php?c=66&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, SUNDANCE TV
@@ -229,227 +224,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FUEL TV HD 
 http://roedor.xyz/regiomx20x/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
  
-*** CULTURALES ***
-#EXTINF:-1, DISCOVERY ID
-http://roedor.xyz/regiomx20x/tp.php?c=68&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISCOVERY CHANNEL
-http://roedor.xyz/regiomx20x/tp.php?c=86&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ANIMAL PLANET
-http://roedor.xyz/regiomx20x/tp.php?c=88&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, HISTORY
-http://roedor.xyz/regiomx20x/tp.php?c=89&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAT GEO  
-http://roedor.xyz/regiomx20x/tp.php?c=91&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAT GEO WILD
-http://roedor.xyz/regiomx20x/tp.php?c=92&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY THEATER
-http://roedor.xyz/regiomx20x/tp.php?c=95&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, H&H
-http://roedor.xyz/regiomx20x/tp.php?c=96&p=3&k=srregio&f=.m3u8 
- 
-#EXTINF:-1, DISCOVERY SCIENCE  
-http://roedor.xyz/regiomx20x/tp.php?c=98&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISCOVERY CIVILIZATION
-http://roedor.xyz/regiomx20x/tp.php?c=99&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISCOVERY WORLD
-http://roedor.xyz/regiomx20x/tp.php?c=101&p=3&k=srregio&f=.m3u8
-RAW Paste Data
-#EXTM3U
- 
-
-#EXTINF:-1, A3CINE 
-http://roedor.xyz/regiomx20x/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, TBS SD  
-http://roedor.xyz/regiomx20x/tp.php?c=81&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, DE PELICULA + 
-http://roedor.xyz/regiomx20x/tp.php?c=121&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, GOLDEN +
-http://roedor.xyz/regiomx20x/tp.php?c=122&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, GOLDEN
-http://roedor.xyz/regiomx20x/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, GOLDEN EDGE
-http://roedor.xyz/regiomx20x/tp.php?c=124&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, TNT 
-http://roedor.xyz/regiomx20x/tp.php?c=126&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TCM
-http://roedor.xyz/regiomx20x/tp.php?c=128&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, SPACE
-http://roedor.xyz/regiomx20x/tp.php?c=129&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, AMC 
-http://roedor.xyz/regiomx20x/tp.php?c=131&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, STUDIO UNIVERSAL
-http://roedor.xyz/regiomx20x/tp.php?c=132&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, I SAT  
-http://roedor.xyz/regiomx20x/tp.php?c=135&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FILMS & ARTS
-http://roedor.xyz/regiomx20x/tp.php?c=137&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FXM
-http://roedor.xyz/regiomx20x/tp.php?c=138&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FXM SD 
-http://roedor.xyz/regiomx20x/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX SERIES
-http://roedor.xyz/regiomx20x/tp.php?c=139&p=3&k=srregio&f=.m3u8  
-
-#EXTINF:-1, FOX MOVIES 
-http://roedor.xyz/regiomx20x/tp.php?c=146&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINECANAL
-http://roedor.xyz/regiomx20x/tp.php?c=149&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINEMAX 
-http://roedor.xyz/regiomx20x/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AMC  
-http://roedor.xyz/regiomx20x/tp.php?c=328&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DE PELICULA SD
-http://roedor.xyz/regiomx20x/tp.php?c=335&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX ACTION
-http://roedor.xyz/regiomx20x/tp.php?c=336&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, PARAMOUNT CHANNEL 
-http://roedor.xyz/regiomx20x/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX CINEMA SD
-http://roedor.xyz/regiomx20x/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX CLASSICS SD
-http://roedor.xyz/regiomx20x/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CINEMA 
-http://roedor.xyz/regiomx20x/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",FX
-http://blackaddon.com/scr/jul3.php?c=56&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox
-http://blackaddon.com/scr/jul3.php?c=57&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Action
-http://blackaddon.com/scr/jul3.php?c=58&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Cinema
-http://blackaddon.com/scr/jul3.php?c=60&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Cinema Subtitulado
-http://blackaddon.com/scr/jul3.php?c=61&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Classics
-http://blackaddon.com/scr/jul3.php?c=62&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Comedy
-http://blackaddon.com/scr/jul3.php?c=63&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Family
-http://blackaddon.com/scr/jul3.php?c=64&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Life
-http://blackaddon.com/scr/jul3.php?c=65&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Movies
-http://blackaddon.com/scr/jul3.php?c=67&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox News
-http://blackaddon.com/scr/jul3.php?c=68&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series
-http://blackaddon.com/scr/jul3.php?c=69&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series Subtitulado
-http://blackaddon.com/scr/jul3.php?c=70&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO
-http://blackaddon.com/scr/jul3.php?c=84&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO 2
-http://blackaddon.com/scr/jul3.php?c=85&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Family
-http://blackaddon.com/scr/jul3.php?c=86&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Signature
-http://blackaddon.com/scr/jul3.php?c=87&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Subtitulado
-http://blackaddon.com/scr/jul3.php?c=88&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO plus
-http://blackaddon.com/scr/jul3.php?c=89&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HLN
-http://blackaddon.com/scr/jul3.php?c=90&f.m3u8
-
-*** ENTRETENIMIENTO ***
-#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
-http://roedor.xyz/regiomx20x/tp.php?c=85&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX  
-http://roedor.xyz/regiomx20x/tp.php?c=46&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, SONY  
-http://roedor.xyz/regiomx20x/tp.php?c=48&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, WARNER  
-http://roedor.xyz/regiomx20x/tp.php?c=52&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, E!
-http://roedor.xyz/regiomx20x/tp.php?c=55&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, UNIVERSAL
-http://roedor.xyz/regiomx20x/tp.php?c=57&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, SYFY
-http://roedor.xyz/regiomx20x/tp.php?c=59&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FX
-http://roedor.xyz/regiomx20x/tp.php?c=60&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, A&E
-http://roedor.xyz/regiomx20x/tp.php?c=62&p=3&k=srregio&f=.m3u8  
-
-#EXTINF:-1, UNICABLE SD
-http://roedor.xyz/regiomx20x/tp.php?c=66&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, SUNDANCE TV
-http://roedor.xyz/regiomx20x/tp.php?c=69&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, TNT SERIES
-http://roedor.xyz/regiomx20x/tp.php?c=71&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, GLITZ
-http://roedor.xyz/regiomx20x/tp.php?c=76&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, GOURMET 
-http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX LIFE
-http://roedor.xyz/regiomx20x/tp.php?c=77&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISTRITO COMEDIA SD
-http://roedor.xyz/regiomx20x/tp.php?c=78&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TRUTV
-http://roedor.xyz/regiomx20x/tp.php?c=79&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, TL NOVELAS SD
-http://roedor.xyz/regiomx20x/tp.php?c=83&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, LIFETIME 
-http://roedor.xyz/regiomx20x/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ANTENA 3
-http://roedor.xyz/regiomx20x/tp.php?c=199&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX HD 
-http://roedor.xyz/regiomx20x/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, WARNER HD 
-http://roedor.xyz/regiomx20x/tp.php?c=205&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, UNIVERSAL HD
-http://roedor.xyz/regiomx20x/tp.php?c=207&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FX HD
-http://roedor.xyz/regiomx20x/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TRUTV HD
-http://roedor.xyz/regiomx20x/tp.php?c=215&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, HOLA TV HD
-http://roedor.xyz/regiomx20x/tp.php?c=219&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, COMEDY CENTRAL
-http://roedor.xyz/regiomx20x/tp.php?c=340&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, COMEDY CENTRAL SD
-http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, UNICABLE
-http://roedor.xyz/regiomx20x/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MAS CHIC
-http://roedor.xyz/regiomx20x/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, A3SERIES
-http://roedor.xyz/regiomx20x/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
-
-*** DEPORTES ***
-#EXTINF:-1, ESPN + 
-http://roedor.xyz/regiomx20x/tp.php?c=167&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ESPN 
-http://roedor.xyz/regiomx20x/tp.php?c=168&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ESPN 2
-http://roedor.xyz/regiomx20x/tp.php?c=169&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX SPORTS
-http://roedor.xyz/regiomx20x/tp.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX SPORTS 2
-http://roedor.xyz/regiomx20x/tp.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TUDN
-http://roedor.xyz/regiomx20x/tp.php?c=174&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX SPORTS 3 
-http://roedor.xyz/regiomx20x/tp.php?c=178&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, AYM SPORTS
-http://roedor.xyz/regiomx20x/tp.php?c=180&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ESPN 3 
-http://roedor.xyz/regiomx20x/tp.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TUDN HD (2)
-http://roedor.xyz/regiomx20x/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ADRENALINA SPORTS HD
-http://roedor.xyz/regiomx20x/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, LAS
-http://roedor.xyz/regiomx20x/tp.php?c=2089&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, HAVOC
-http://roedor.xyz/regiomx20x/tp.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TVC DEPORTES
-http://roedor.xyz/regiomx20x/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CLARO SPORTS HD  
-http://roedor.xyz/regiomx20x/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FUEL TV HD 
-http://roedor.xyz/regiomx20x/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
-
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
 http://roedor.xyz/regiomx20x/tp.php?c=68&p=3&k=srregio&f=.m3u8  
@@ -469,7 +243,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=92&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=95&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, H&H
 http://roedor.xyz/regiomx20x/tp.php?c=96&p=3&k=srregio&f=.m3u8 
-
 #EXTINF:-1, DISCOVERY SCIENCE  
 http://roedor.xyz/regiomx20x/tp.php?c=98&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, DISCOVERY CIVILIZATION
